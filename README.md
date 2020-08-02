@@ -4,7 +4,14 @@
 
 ## Short answer
 
-lorem ipsum
+### I want to boil water as much as possible
+aaa
+
+### I want to use the smallest amount of gas
+aa
+
+### I want compromise
+aa
 
 ## Long answer
 
