@@ -26,3 +26,5 @@ lorem ipsum
 ![Amount of water vs Gas per liter](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=770051952&format=image)
 
 ![Amount of water vs Time per liter](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=1003353420&format=image)
+
+![Energy released](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=1609645570&format=image)
