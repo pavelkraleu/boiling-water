@@ -4,7 +4,7 @@
 
 ## Short answer
 
-### I want to boil water as much as possible
+### I want to boil water as fast as possible
 aaa
 
 ### I want to use the smallest amount of gas
@@ -23,3 +23,6 @@ lorem ipsum
 
 ![draw](https://docs.google.com/drawings/d/e/2PACX-1vRrAeSNSOOgqoVNPtu6gFxlaxi20uyuMefJTzbduhtEjb6dSTRuoSf5VbM8ObgLkUCh_bqj4VFERnZJ/pub?w=1922&h=1905)
 
+![Amount of water vs Gas per liter](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=770051952&format=image)
+
+![Amount of water vs Time per liter](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=1003353420&format=image)
