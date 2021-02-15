@@ -4,6 +4,12 @@
 
 ## My gas stove
 
+During one year I have recorded following values
+
+* Weight of water boiled on kitchen scales 
+* Amount of gas used on gas meter
+* Time until the kettle whistle goes off
+
 ![draw](https://docs.google.com/drawings/d/e/2PACX-1vRrAeSNSOOgqoVNPtu6gFxlaxi20uyuMefJTzbduhtEjb6dSTRuoSf5VbM8ObgLkUCh_bqj4VFERnZJ/pub?w=1922&h=1905)
 
 ## Relationship between amount of water and gas usage
