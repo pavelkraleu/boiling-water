@@ -23,6 +23,13 @@
 
 ## Released energy
 
+Example:
+* `1.6` kg of water (~1.6L)
+* `0.045` m3 of gas used 
+* Mols gas : `(0.045 * 0.8 * 1000) / 16.043 = 2.243` 
+* Energy released : `890.307 * 2.243 = 1997.82`
+* Energy released per liter : `1997.821604 / 1.6 = 1230.185`
+
 Energy released compared to electric kettle
 
 ![Energy released](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=1583282277&format=image)
