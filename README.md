@@ -1,5 +1,7 @@
 # Which burner should you use to boil water?
 
+![gas](./gas.gif)
+
 ## My gas stove
 
 ![draw](https://docs.google.com/drawings/d/e/2PACX-1vRrAeSNSOOgqoVNPtu6gFxlaxi20uyuMefJTzbduhtEjb6dSTRuoSf5VbM8ObgLkUCh_bqj4VFERnZJ/pub?w=1922&h=1905)
