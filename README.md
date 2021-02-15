@@ -26,9 +26,10 @@
 Example:
 * `1.6` kg of water (~1.6L)
 * `0.045` m3 of gas used 
-* Amount of substance of gas : (<span style="color:blue">0.045</span> * 0.8 * 1000) / 16.043 = 2.243 
-* Energy released : `890.307 * 2.243 = 1997.82`
-* Energy released per liter : `1997.821604 / 1.6 = 1230.185`
+* Molar enthalpy of combustion of methane : `890.307` kJ / mol 
+* Amount of substance of gas : `n = (V * ρ) / M = (0.045 * 0.8 * 1000) / 16.043 = 2.243` mols
+* Energy released : `Q = H * n = 890.307 * 2.243 = 1997.82 kJ`
+* Energy released per liter : `1997.821604 / 1.6 = 1230.185 kJ`
 
 Energy released compared to electric kettle
 
