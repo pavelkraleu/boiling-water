@@ -23,10 +23,14 @@
 
 ## Released energy
 
+For simplicity I consider in this example that natural gas is 100% methane (which is usually only around 85% methane).
+
 Example:
 * `1.6` kg of water (~1.6L)
 * `0.045` m3 of gas used 
 * Molar enthalpy of combustion of methane : `890.307` kJ / mol 
+
+
 * Amount of substance of gas : `n = (V * ρ) / M = (0.045 * 0.8 * 1000) / 16.043 = 2.243` mols
 * Energy released : `Q = H * n = 890.307 * 2.243 = 1997.82 kJ`
 * Energy released per liter : `1997.821604 / 1.6 = 1230.185 kJ`
