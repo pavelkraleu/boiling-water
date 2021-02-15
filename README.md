@@ -21,4 +21,8 @@
     <tr><td><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=770051952&format=image"></td> <td><img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=1003353420&format=image"></td></tr>
 </table>
 
+## Released energy
+
+Energy released compared to electric kettle
+
 ![Energy released](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9r4tnxn11Ffil5_L6DfbFyeJwRuwnYBL1qEqAnGNMykouAWTzTiJiILhG_rQ6QUhI6qZK-rWSQzbj/pubchart?oid=1583282277&format=image)
